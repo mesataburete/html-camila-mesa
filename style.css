@@ -1,6 +1,7 @@
 #principe {
   display: block;
-  margin-left: auto;
+  margin-left: 120px;
   margin-right: auto;
+  display: block;
   filter: grayscale(20%) drop-shadow(25px 25px gray);
 }
