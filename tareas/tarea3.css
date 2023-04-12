@@ -1,0 +1,14 @@
+#principe {
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+  display: block;
+  filter: grayscale(20%) drop-shadow(25px 25px green);
+}
+#olivia {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  display: block;
+  filter: grayscale(20%) drop-shadow(27px 27px purple);
+}
